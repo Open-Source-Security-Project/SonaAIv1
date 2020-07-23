@@ -9,7 +9,7 @@ olefile==0.44
 Pillow==7.2.0
 protobuf==3.12.2
 scipy==0.19.1
-six==1.10.0
+six==1.15.0
 tensorflow==2.2.0
 tflearn==0.3.2
 Werkzeug==0.15.3
