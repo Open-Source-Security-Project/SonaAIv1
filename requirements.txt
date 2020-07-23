@@ -7,7 +7,7 @@ nltk==3.2.4
 numpy==1.13.3
 olefile==0.44
 Pillow==6.2.3
-protobuf==3.4.0
+protobuf==3.12.2
 scipy==0.19.1
 six==1.10.0
 tensorflow==1.15.2
